@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mc" type="id" />
+    <item name="mC" type="id" />
+    <item name="mCa" type="id" />
+    <item name="mP" type="id" />
+    <item name="layout" type="id" />
+    <item name="layoutt" type="id" />
+</resources>
